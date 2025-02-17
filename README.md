@@ -5,7 +5,7 @@ We support the learning of children through our application that uses pictograms
 
 The program features a settings button allowing users with autism to change the font type according to their visual needs. Furthermore, there's an option to select a language, making the application useful regardless of the user's language. We have a responsive design, ensuring the application adapts optimally to any device, providing a friendly and inclusive experience for all children with autism who use our ap
 
-#Members 
+# Members 
 - Génesis M. Ojeda
   - GitHub: [DevQueenPR](https://github.com/DevQueenPR)
   - LinkedIn: [Génesis M. Ojeda](https://www.linkedin.com/in/g%C3%A9nesis-ojeda-451576302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
