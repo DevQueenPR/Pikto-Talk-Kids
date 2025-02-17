@@ -3,7 +3,7 @@ Pikto-Talk-Kids is a conceptual app that focuses on UI/UX design and research. O
 
 We support the learning of children through our application that uses pictograms. We offer various forms of learning, such as stories and sequences, to facilitate the understanding of daily events. Additionally, we have interactive games that promote the comprehension and use of basic vocabulary. Accessibility is our priority to ensure an inclusive experience for our users.
 
-The program features a settings button allowing users with autism to change the font type according to their visual needs. Furthermore, there's an option to select a language, making the application useful regardless of the user's language. We have a responsive design, ensuring the application adapts optimally to any device, providing a friendly and inclusive experience for all children with autism who use our app.
+The program features a settings button allowing users with autism to change the font type according to their visual needs. Furthermore, there's an option to select a language, making the application useful regardless of the user's language. We have a responsive design, ensuring the application adapts optimally to any device, providing a friendly and inclusive experience for all children  who use our app.
 
 # Members 
 - Génesis M. Ojeda
